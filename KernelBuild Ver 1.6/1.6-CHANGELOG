@@ -1,0 +1,23 @@
+#  Automatic Kernel Build Script
+#  ver 1.6
+#
+#  Changelog:
+#  v 0.1 - Original simple code.
+#  v 0.2 - Added automatic download and unpack code.
+#  v 0.3 - Added spacing between comands.
+#  v 0.4 - Added configuration interface options.
+#  v 0.5 - Fixed some bugs.
+#  v 0.6 - Added bootloader configuration for grub and lilo.
+#  v 0.7 - Added restart option at the end of the script.
+#  v 0.8 - User can now specify the partition where you can find the bootloader.
+#  v 0.9 - Fixed some bugs. Now the script makes initrd.
+#  v 1.0 - The script first lets you know what kernel version you run on you system.
+#  v 1.1 - Added colors to the script.
+#  v 1.2 - Fixed some bugs and commented the code more carefully.
+#  v 1.3 - Added a new line and commented the code more carefully.
+#  v 1.4 - Fixed some bugs and added an option to clean the previous kernel code or not. 
+#  v 1.5 - Added Download possibility and Make Dep for 2.4.x kernels.
+#  v 1.6 - Fixed some bugs. Now the script is correctly adding the new kernel to grub 
+# 
+#  Made by Ion Alin
+#  alyn3d AT gmail DOT com
